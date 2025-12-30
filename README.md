@@ -82,7 +82,7 @@
 
 # 📊Key Insights & Visualizations
 ## I. Overview
-![imagealt](https://github.com/Artoryss1612/Spotify-Streaming-History/blob/328552b819dc6851d9f8047ce43a00a5d63bcf81/page1.pdf)
+![image alt](https://github.com/Artoryss1612/Spotify-Streaming-History/blob/328552b819dc6851d9f8047ce43a00a5d63bcf81/page1.pdf)
 
 <img width="1300" height="730" alt="Page 2" src="https://github.com/Artoryss1612/Spotify-Streaming-History/blob/328552b819dc6851d9f8047ce43a00a5d63bcf81/page2.pdf" />
 
