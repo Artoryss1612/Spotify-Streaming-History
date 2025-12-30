@@ -1,4 +1,4 @@
-# 🎧 Spotify Streaming History: Listening Behavior & Usage Pattern Analysis (12/2023 - 05/2024)
+# 🎧 Spotify Streaming History: Listening Behavior & Usage Pattern Analysis (7/2013 - 12/2024)
 - Author: Đặng Lê Nguyên **(Data Analyst)**
 - Date: 12/2025
 - Tool Used: **Python**, **Power Bi**, **SQL**
