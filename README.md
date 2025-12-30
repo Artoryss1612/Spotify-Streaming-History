@@ -1,12 +1,10 @@
-# 🚂UK Rail Transport: Diagnosing Ticket Sales, Revenue & On-Time Performance (12/2023 - 05/2024)
-- Author: Huỳnh Tấn Phát **(Transportation Data Analyst)**
+# 🎧 Spotify Streaming History: Listening Behavior & Usage Pattern Analysis (12/2023 - 05/2024)
+- Author: Đặng Lê Nguyên **(Data Analyst)**
 - Date: 12/2025
 - Tool Used: **Python**, **Power Bi**, **SQL**
   - `Python`: Pandas, Numpy, Datetime
   - `Power Bi`: Dax, calculated columns, data visualization, data modeling, ETL
   - `SQL`: CTEs, Joins, Case, aggregate functions
-
-
 
 # ReadMe - Table Of Contents (TOCS)
 1. [Executive Summary]()
@@ -18,41 +16,46 @@
 7. [Recommendations]()
 
 # 🚀 Executive Summary 
-- This project analyzes UK railway ticket and operation data to show how revenue, passenger demand, and on-time performance are connected.
-- Using data from **+30.000** ticket transactions (`Online`, `Station`), the analysis helps **Railway Managers**:
-  - See which routes and ticket types generate revenue
-  - Understand when passengers travel the most
-  - Identify routes with delays, cancellations, and revenue loss
-- The objective is to support data-driven decisions in route planning, scheduling, and service reliability.
+- This project analyzes personal Spotify streaming history data to understand long-term listening behavior, platform usage, and music consumption patterns.
 
+- The dataset spans multiple years and includes detailed playback-level information such as:
+
+- Track, artist, and album metadata
+
+- Playback duration
+
+- Platform used (e.g., Web Player)
+
+- User interaction signals (skipped, shuffle, reason for start/end)
+
+- The analysis demonstrates how raw streaming logs can be transformed into actionable insights using Python for data cleaning and SQL for analytical querying.
 
 # 📌Background & Objectives
 ## Background: 
-- The UK railway system operates under high passenger demand, where even small delays or cancellations can lead to revenue loss and reduced customer trust.
-- Understanding how ticket sales, travel demand, and punctuality is important for improving operational efficiency and maintaining service reliability.
+- Spotify provides detailed streaming history logs that capture how users interact with music over time.
+
+- These raw logs are not analysis-ready and require cleaning, structuring, and querying to extract insights.
 
 ## Four Requirements from the Manager:
-1. Analyze revenue from different ticket types & classes
-2. Identify the most popular routes
-3. Determine peak travel times
-4. Diagnose on-time performance and contributing factors
+1. Which artist did they listen to the most this year? Is it the same as last year?
+
+2. Which songs have they played the most? How often do they skip them?
+
+3. What time of day do they typically listen to music?
+
+4. How often do they explore new artists versus replaying favorites?
 
 ## 🕵🏼‍♂️Who is this project for ?
-- Manager of National Rail Service
-- Operation Team
+- The Marketing/ Product Manager
+- The User
+- The Data Analyst
 
 # 📂Dataset Description
 ## 📌Data Source:
 - Source:
-    - [Kaggle](https://www.kaggle.com/datasets/motsimaslam/national-rail-uk-train-ticket-data)
-    - [Maven Anlytics](https://mavenanalytics.io/challenges/maven-rail-challenge)
-- Size: The **Ticket** table contains **31.653** records with **18** fields
+    - [Maven Anlytics](https://mavenanalytics.io/data-playground/spotify-streaming-history)
+- Size: The **Spotify_Streaming_history** table contains **149.860** records with **11** fields
 - Format: CSV
-
-## 📊Data Relationships
-<img width="1590" height="713" alt="image" src="https://github.com/user-attachments/assets/2f66dcbe-33d8-4257-88e0-de66108a9c2d" />
-
-
 
 # Data Processing by Python & Power Bi
 
