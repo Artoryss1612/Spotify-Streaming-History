@@ -53,7 +53,7 @@
 # 📂Dataset Description
 ## 📌Data Source:
 - Source:
-    - [Maven Anlytics](https://mavenanalytics.io/data-playground/spotify-streaming-history)
+    - [Maven Analytics](https://mavenanalytics.io/data-playground/spotify-streaming-history)
 - Size: The **Spotify_Streaming_history** table contains **149.860** records with **11** fields
 - Format: CSV
 
