@@ -77,15 +77,14 @@
 
 # 🗯️Defining Key Questions before Data Visualization
 ## Step 1 & Step 2
-<img width="1218" height="682" alt="image" src="https://github.com/user-attachments/assets/6e74e78a-0306-49d4-a463-cc5c24cd4f47" />
-
+<img width="1218" height="682" alt="image" src="https://github.com/Artoryss1612/Spotify-Streaming-History/blob/328552b819dc6851d9f8047ce43a00a5d63bcf81/keys%20spotify.pdf" />
 
 
 # 📊Key Insights & Visualizations
 ## I. Overview
-<img width="1300" height="730" alt="Page 1" src="https://github.com/user-attachments/assets/9e65e40f-dd45-4d20-bc91-45fbc34d69e1" />
+<img width="1300" height="730" alt="Page 1" src="https://github.com/Artoryss1612/Spotify-Streaming-History/blob/328552b819dc6851d9f8047ce43a00a5d63bcf81/page1.pdf" />
 
-<img width="1300" height="730" alt="Page 1" src="https://github.com/user-attachments/assets/9e65e40f-dd45-4d20-bc91-45fbc34d69e1" />
+<img width="1300" height="730" alt="Page 2" src="https://github.com/Artoryss1612/Spotify-Streaming-History/blob/328552b819dc6851d9f8047ce43a00a5d63bcf81/page2.pdf" />
 
 
 ## 🔑 Key Takeaways from the Spotify Streaming History Dataset
