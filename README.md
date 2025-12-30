@@ -209,12 +209,7 @@ Based on quantitative evidence:
 > This makes the dataset well-suited for **behavioral analytics, personalization modeling, and time-based listening analysis**.
 
 
-## V. Action Strategies
-<img width="1299" height="727" alt="Page 5" src="https://github.com/user-attachments/assets/3bef2867-e097-46b0-ad05-ce317a7d4b47" />
-
-
-
-# 💡Recommendations
+## V. Action Strategies & Recommendations
 
 
 
